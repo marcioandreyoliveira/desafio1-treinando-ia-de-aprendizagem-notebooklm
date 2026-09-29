@@ -7,7 +7,7 @@ No meu ponto de vista, idealmente há 2 caminhos para isso: investir em ações 
 
 Entretanto, devido a sua altíssima volatilidade, o potencial de perdas é enorme. Para quem já não é tão novo (meu caso), essas perdas podem ser catastróficas, principalmente se ocorrerem no període de aposentadoria, onde jã não terei mais outras fontes de renda.
 
-O investimento em ações é considerado por muitos como um investimento altamente especulativo, com chances gigantes de perda de capital, comparável ao risco do Bitcoin. Mas isso ocorre porque as pessoas não investem em ações. Elas apostam em operações de curto prazo (/day trade/). A alternativa inteligênte, criada e defendida pelo Sr. Luiz Barsi, mitiga muito os riscos e aumenta exponencialmente o potencial de rendimentos. A contrapartida, é que o rendimento obtido com as ações será menor do que se investissemos apenas no Bitcoin.
+O investimento em ações é considerado por muitos como um investimento altamente especulativo, com chances gigantes de perda de capital, comparável ao risco do Bitcoin. Mas isso ocorre porque as pessoas não investem em ações. Elas apostam em operações de curto prazo (_day trade_). A alternativa inteligênte, criada e defendida pelo Sr. Luiz Barsi, mitiga muito os riscos e aumenta exponencialmente o potencial de rendimentos. A contrapartida, é que o rendimento obtido com as ações será menor do que se investissemos apenas no Bitcoin.
 
 Analizando os prós e contras entre ambos me parece que investir no Bitcoin e em ações ao mesmo tempo é uma boa estratégia. Não vou ganhar tanto quanto investir apenas em Bitcoin e nem correr um risco tão grande de perder tudo.
 
@@ -19,7 +19,7 @@ Treinar o NotebookLM do Google com a estratégia de ações previdenciárias do 
 📚 Fontes usadas
 * Eu pré-selecionei 10 ações da bolsa que tiveram excelentes desempenhos em termos de dividendos e que compõe a carteira de ações recomendadas pela metodologia do Sr. Luiz Barsi. 
 
-No site da [AGF](https://app.agf.com.bf/) obtive os dados históricos dos valores das ações (data, abertura, máximo, mínimo, fechamento, fechamento ajustado, volume e valor de mercado) e dos proventos e bonificações pagos por cada um deles e os salvei em um arquivo chamado [acoes_bovespa_b3_valores_historicos.txt](acoes_bovespa_b3_valores_historicos.txt).
+No site da [AGF](https://app.agf.com.br/) obtive os dados históricos dos valores das ações (data, abertura, máximo, mínimo, fechamento, fechamento ajustado, volume e valor de mercado) e dos proventos e bonificações pagos por cada um deles e os salvei em um arquivo chamado [acoes_bovespa_b3_valores_historicos.txt](./acoes_bovespa_b3_valores_historicos.txt).
 
 São elas:
 - BBAS3
@@ -33,13 +33,13 @@ São elas:
 - TIMS3
 - VIVT3
 
-* No site [https://br.investing.com/crypto/bitcoin/btc-usd-historical-data](https://br.investing.com/crypto/bitcoin/btc-usd-historical-data) obtive a cotação diária do Bitcoin desde 01 de janeiro de 2013 e o salvei como o arquivo [Dados Históricos BTC/BRL](<Dados Históricos BTC_BRL - MercadoBitcoin.csv>).
+* No site [https://br.investing.com/crypto/bitcoin/btc-usd-historical-data](https://br.investing.com/crypto/bitcoin/btc-usd-historical-data) obtive a cotação diária do Bitcoin desde 01 de janeiro de 2013 e o salvei como o arquivo [Dados Históricos BTC/BRL](./<Dados Históricos BTC_BRL - MercadoBitcoin.csv>).
 
 
-* Enviei uma cópia do meu livro /O rei dos dividendos/, para que o NotebookLM entenda sobre como que foi se desenvolvendo a tese do Sr. Luiz Barsi.
+* Enviei uma cópia do meu livro _O rei dos dividendos_, para que o NotebookLM entenda sobre como que foi se desenvolvendo a tese do Sr. Luiz Barsi.
 Não adiciono aqui este livro por se tratar de material com copyright.
 
-* Enviei uma cópia do PDF /Ações Garantem o Futuro/, onde estava a tese publicada. Também por motivos de copyright não compartilho o documento.
+* Enviei uma cópia do PDF _Ações Garantem o Futuro_, onde estava a tese publicada. Também por motivos de copyright não compartilho o documento.
 
 
 💬 Conversa com o NotebookLM
@@ -438,10 +438,10 @@ Apresentação de slides atualizada no seu painel Studio incorporando esses dado
 👑   Artefatos Gerados
 Além da planilha, o NotebookLM gerou alguns PDFs / Powerpoints resumindo o que foi discutido. O material é claro, direto, didático e de excelente qualidade.
  
-- [acoes-garantem-o-futuro-luiz-barsi.pdf](acoes-garantem-o-futuro-luiz-barsi.pdf)
-- [Antifragile_60_40_Strategy.pdf](Antifragile_60_40_Strategy.pdf)
-- [Antifragile_60_40_Strategy.pptx](Antifragile_60_40_Strategy.pptx)
-- [carteira_aposentadoria_barsi_btc.xlsx](carteira_aposentadoria_barsi_btc.xlsx)
-- [Passive_Income_Blueprint.pdf](Passive_Income_Blueprint.pdf)
-- [Passive_Income_Blueprint.pptx](Passive_Income_Blueprint.pptx)
+- [acoes-garantem-o-futuro-luiz-barsi.pdf](./acoes-garantem-o-futuro-luiz-barsi.pdf)
+- [Antifragile_60_40_Strategy.pdf](./Antifragile_60_40_Strategy.pdf)
+- [Antifragile_60_40_Strategy.pptx](./Antifragile_60_40_Strategy.pptx)
+- [carteira_aposentadoria_barsi_btc.xlsx](./carteira_aposentadoria_barsi_btc.xlsx)
+- [Passive_Income_Blueprint.pdf](./Passive_Income_Blueprint.pdf)
+- [Passive_Income_Blueprint.pptx](./Passive_Income_Blueprint.pptx)
 
