@@ -438,7 +438,6 @@ Apresentação de slides atualizada no seu painel Studio incorporando esses dado
 👑   Artefatos Gerados
 Além da planilha, o NotebookLM gerou alguns PDFs / Powerpoints resumindo o que foi discutido. O material é claro, direto, didático e de excelente qualidade.
  
-- [acoes-garantem-o-futuro-luiz-barsi.pdf](./acoes-garantem-o-futuro-luiz-barsi.pdf)
 - [Antifragile_60_40_Strategy.pdf](./Antifragile_60_40_Strategy.pdf)
 - [Antifragile_60_40_Strategy.pptx](./Antifragile_60_40_Strategy.pptx)
 - [carteira_aposentadoria_barsi_btc.xlsx](./carteira_aposentadoria_barsi_btc.xlsx)
